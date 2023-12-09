@@ -17,14 +17,14 @@ The **Student Management System** is a web-based application providing a user-fr
 ## Features
 
 - **Student Information:** Maintain detailed profiles of students, including personal details, contact information, and academic history.
-  
+<--  
 - **Course Management:** Manage courses, subjects, and class schedules to organize academic activities effectively.
   
 - **Grades and Progress Tracking:** Record and track students' grades, assignments, and overall academic progress.
   
 - **Attendance Management:** Keep track of student attendance in classes and generate attendance reports.
   
-- **User Authentication and Authorization:** Secure login system with role-based access control for administrators, teachers, and students.
+- **User Authentication and Authorization:** Secure login system with role-based access control for administrators, teachers, and students. -->
 
 ## Technologies Used
 
@@ -42,7 +42,7 @@ The **Student Management System** is a web-based application providing a user-fr
 
 To set up and run the Student Management System locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/student-management-system.git`
+1. Clone the repository: `git clone https://github.com/IamKishan08/Student-Management-System.git`
 2. Configure the MySQL database settings in `application.properties`.
 3. Build and run the project using your preferred IDE or the command line.
 
